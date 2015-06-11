@@ -9,8 +9,8 @@ public class Runner {
 
     public static void main(String[] args) {
         int[] values = {2, 3, 1, 5};
-        PermMissingElem permMissingElem = new PermMissingElem();
-        int solution = permMissingElem.solution(values);
+        PermMissingElement permMissingElement = new PermMissingElement();
+        int solution = permMissingElement.solution(values);
         System.out.println("solution = " + solution);
     }
 
