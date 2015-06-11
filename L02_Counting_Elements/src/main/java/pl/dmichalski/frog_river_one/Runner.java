@@ -2,6 +2,8 @@ package pl.dmichalski.frog_river_one;
 
 /**
  * Author: Daniel
+ * Correctness: 100%
+ * Performance: 100%
  */
 public class Runner {
 
