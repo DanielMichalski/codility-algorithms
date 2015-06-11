@@ -1,4 +1,4 @@
-package pl.dmichalski.codility_algorithm.L01_Time_Complexity.tape_equilibrium;
+package pl.dmichalski.codility_algorithm.tape_equilibrium;
 
 /**
  * Author: Daniel

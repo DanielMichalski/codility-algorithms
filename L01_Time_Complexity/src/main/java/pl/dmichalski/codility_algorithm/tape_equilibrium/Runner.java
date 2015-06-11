@@ -1,8 +1,7 @@
-package pl.dmichalski.codility_algorithm.L01_Time_Complexity.tape_equilibrium;
+package pl.dmichalski.codility_algorithm.tape_equilibrium;
 
 /**
  * Author: Daniel
- * The command of the task is in resources
  * Correctness: 100%
  * Performance: 100%
  */
