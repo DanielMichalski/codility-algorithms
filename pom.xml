@@ -11,6 +11,7 @@
     <modules>
         <module>L01_Time_Complexity</module>
         <module>L02_Counting_Elements</module>
+        <module>L03_Prefix_Sums</module>
     </modules>
 
     <build>

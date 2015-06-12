@@ -1,4 +1,4 @@
-package pl.dmichalski.perm_check;
+package pl.dmichalski.passing_cars;
 
 /**
  * Author: Daniel
@@ -8,10 +8,9 @@ package pl.dmichalski.perm_check;
 public class Runner {
 
     public static void main(String[] args) {
-        int[] A = {4, 1, 3, 2};
-
-        PermCheck permCheck = new PermCheck();
-        int solution = permCheck.solution(A);
+        int[] A = {0, 1, 0, 1, 1};
+        PassingCars passingCars = new PassingCars();
+        int solution = passingCars.solution(A);
         System.out.println("solution = " + solution);
     }
 
